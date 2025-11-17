@@ -1,7 +1,7 @@
 
 
 Project Name
-Audio-Image-Text Steganography Tool
+Image Canva
 
 Project Description :
 It Hide text, audio, or images inside another image using LSB method.
